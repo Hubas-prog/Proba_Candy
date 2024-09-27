@@ -9,8 +9,10 @@ failure (with probability q = 1-p)
 
 ## Details of the experiment
 
-Material: - A 45g pack of a famous brand of color-varied sugar-coated
-chocolate dragée. - a cup
+Material:
+- A 45g pack of a famous brand of color-varied sugar-coated
+chocolate dragée.
+- a cup
 
 Experiment: Perform a sequence of 5 independent random draws of candies
 in the 45g pack, with replacement. Answer each time the following yes–no
