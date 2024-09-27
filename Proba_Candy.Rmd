@@ -3,13 +3,13 @@ title: "Proba_Candy"
 author: "Cédric Hubas"
 date: "2024-09-27"
 output: 
+  github_document:
+    toc: true
+    toc_depth: 2
   md_document:
     variant: markdown_github
   html_document:
     toc: true
-  github_document:
-    toc: true
-    toc_depth: 2
 ---
 
 ```{r setup, include=FALSE}
